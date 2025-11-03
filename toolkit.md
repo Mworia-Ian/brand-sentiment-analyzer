@@ -1,4 +1,4 @@
-# 🧠 Moringa School AI Capstone Toolkit
+# Moringa School AI Capstone Toolkit
 
 ## Project Title: AI Brand Sentiment Analyzer
 
@@ -6,15 +6,21 @@
 
 ---
 
-## 🏁 Executive Summary
+## Executive Summary
 
 The **AI Brand Sentiment Analyzer** is an interactive web app that compares how people feel about different brands or organizations. It simulates realistic online comments, performs **sentiment** and **emotion** analysis using Hugging Face Transformers, and visualizes the results with Streamlit and Plotly.
 
-This project demonstrates how Generative AI can help beginners learn, experiment, and build meaningful solutions using **open-source, zero-cost tools**. It was developed as part of my Moringa School AI Capstone Project.
+You can view and interact with the live app here:
+👉 https://brand-sentiment-analyzer-gndc7pamezhbnbszciygwv.streamlit.app/
+
+Watch a short demo of the project on YouTube:
+🎥 https://youtu.be/I40rKeM5Fx0
+
+This project demonstrates how Generative AI can help beginners learn, experiment, and build meaningful solutions using **open-source**, **zero-cost tools**. It was developed as part of my Moringa School AI Capstone Project.
 
 ---
 
-## ⚙️ Technology Summary
+## Technology Summary
 
 | Technology                      | Purpose                           |
 | ------------------------------- | --------------------------------- |
@@ -29,7 +35,7 @@ All tools are **free and open source**, making the project fully reproducible wi
 
 ---
 
-## 🚀 Project Setup and Usage
+## Project Setup and Usage
 
 ### Installation
 
@@ -49,11 +55,7 @@ Then open the app at [http://localhost:8501](http://localhost:8501).
 
 ---
 
-## 💡 How It Works
-
-### Youtube Link
-
-https://youtu.be/I40rKeM5Fx0
+## How It Works
 
 1. The user enters two brand names in the app interface.
 2. The app simulates realistic online comments about both brands.
@@ -67,7 +69,7 @@ https://youtu.be/I40rKeM5Fx0
 
 ---
 
-## 🧩 Core Code Snippet
+## Core Code Snippet
 
 ```python
 from transformers import pipeline
@@ -88,7 +90,7 @@ This minimal snippet forms the heart of the analyzer, combining **two NLP pipeli
 
 ---
 
-## 🧠 AI Prompt Journal
+## AI Prompt Journal
 
 Throughout the project, Generative AI was used for:
 
@@ -108,7 +110,7 @@ Throughout the project, Generative AI was used for:
 
 ---
 
-## 🧪 Testing & Iteration
+## Testing & Iteration
 
 The app was tested iteratively across multiple runs. Each component was validated independently:
 
@@ -121,7 +123,7 @@ All issues (e.g., Pylance errors, `Styler` incompatibility) were documented and 
 
 ---
 
-## 🧾 Evaluation Justification
+## Evaluation Justification
 
 ### **1. Clarity & Completeness (30%)**
 
@@ -147,7 +149,7 @@ Combining sentiment and emotion analysis in an interactive dashboard demonstrate
 
 ---
 
-## 🧾 Final Submission Checklist
+## Final Submission Checklist
 
 | Task                                   | Status |
 | -------------------------------------- | ------ |
@@ -160,13 +162,17 @@ Combining sentiment and emotion analysis in an interactive dashboard demonstrate
 
 ---
 
-## 🧠 Reflection
+## Reflection
 
-This project taught me how to use AI not just to generate code but to **think more systematically** — breaking problems into parts and improving through iteration. It also showed that with the right AI tools, building practical solutions doesn’t need a budget, only curiosity and persistence.
+This project taught me how to use AI not just to generate code but to **think more systematically** — breaking problems into parts and improving through iteration.
+It also showed that with the right AI tools, building practical solutions doesn’t need a budget, only curiosity and persistence.
+
+Watch the reflection and demo on YouTube:
+🎥 https://youtu.be/I40rKeM5Fx0
 
 ---
 
-## 🧩 Future Improvements
+## Future Improvements
 
 - Integrate live web-scraping APIs for real brand mentions (e.g., Reddit, Twitter).
 - Add export-to-PDF feature for sentiment reports.
@@ -175,7 +181,7 @@ This project taught me how to use AI not just to generate code but to **think mo
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 The AI Brand Sentiment Analyzer successfully demonstrates the use of **Generative AI for real-world insights**, while remaining beginner-friendly and resource-efficient.  
 It aligns perfectly with Moringa’s capstone evaluation goals — **learning through building, with AI as a co-pilot**.
