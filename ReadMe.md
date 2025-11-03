@@ -6,10 +6,15 @@ _An AI-powered toolkit that compares how people feel about different brands or o
 
 ### 🔍 Overview
 
-The **AI Brand Sentiment Analyzer** uses open-source AI models to analyze and visualize public opinion around any two brands.  
-It simulates realistic online comments, performs **sentiment** and **emotion** analysis using Hugging Face Transformers, and displays the results interactively with **Streamlit**.
+The **AI Brand Sentiment Analyzer** is an interactive web app that compares how people feel about different brands or organizations. It simulates realistic online comments, performs **sentiment** and **emotion** analysis using Hugging Face Transformers, and visualizes the results with Streamlit and Plotly.
 
-This project was built as part of my **Moringa School AI Capstone**, to demonstrate how Generative AI can accelerate learning and create real-world-ready tools at zero cost.
+You can view and interact with the live app here:
+👉 https://brand-sentiment-analyzer-gndc7pamezhbnbszciygwv.streamlit.app/
+
+Watch a short demo of the project on YouTube:
+🎥 https://youtu.be/I40rKeM5Fx0
+
+This project demonstrates how Generative AI can help beginners learn, experiment, and build meaningful solutions using **open-source**, **zero-cost tools**. It was developed as part of my Moringa School AI Capstone Project.
 
 ---
 
@@ -115,7 +120,7 @@ brand-sentiment-analyzer/
 **Ian Mworia**  
 💼 Software Developer | AI Enthusiast  
 📍 Nairobi, Kenya  
-🔗 [LinkedIn](https://linkedin.com/in/ianmworia) · [GitHub](https://github.com/IanMworia)
+🔗 [LinkedIn](https://www.linkedin.com/in/ian-mworia/) · [GitHub](https://github.com/Mworia-Ian)
 
 ---
 
